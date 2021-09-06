@@ -2,7 +2,9 @@
 
 [Sniper 的前世今生](./thought.md)
 
-有兴趣的同学也可以加我的微信`haitaotao`我拉大家进群讨论。
+有兴趣的同学也可以加我的微信 `taoshu-in`，也可以扫码加群：
+
+<img width=250 src="https://taoshu.in/kiss-wx.jpeg">
 
 ## 系统要求
 
